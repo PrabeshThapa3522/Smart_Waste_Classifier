@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# TensorFlow Model Files
+saved_model/
+*.h5
+*.keras
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment Variables
+.env
+
+# Dataset
+dataset/
+
+# Cache
+.cache/
