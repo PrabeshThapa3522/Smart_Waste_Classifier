@@ -101,7 +101,7 @@ python predict.py
 Start the Streamlit application.
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
