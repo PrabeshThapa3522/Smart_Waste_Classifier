@@ -14,7 +14,7 @@ env/
 # macOS
 .DS_Store
 
-# Jupyter Notebook
+# Google Colab Notebook
 .ipynb_checkpoints/
 
 # TensorFlow Model Files
@@ -26,7 +26,7 @@ saved_model/
 *.log
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit
 
 # Environment Variables
 .env
